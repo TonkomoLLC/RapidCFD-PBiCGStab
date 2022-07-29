@@ -1,3 +1,0 @@
-OBJECTS = \
-$(OBJECTS_DIR)/PCGCache.o\
-$(OBJECTS_DIR)/PBiCGStab.o

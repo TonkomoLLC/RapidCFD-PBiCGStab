@@ -23,7 +23,6 @@ LIB_LIBS = \
     -lfiniteVolume \
     -lmeshTools \
     -lsampling \
-    -L$(FOAM_USER_LIBBIN) \
-    -lfftw3
+    -L$(FOAM_USER_LIBBIN) 
 
 
