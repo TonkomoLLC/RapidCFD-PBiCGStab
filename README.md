@@ -1,5 +1,11 @@
 # PBiCGStab solver for RapidCFD-dev
 
+# Now part of RapidCFD-dev
+
+This project is now merged into the [RapidCFD-dev](https://github.com/SimFlowCFD/RapidCFD-dev) project starting with commit [975bd36](https://github.com/SimFlowCFD/RapidCFD-dev/commit/975bd36fc843171181d14411536689ddf4feffe2).
+
+It is recommended that you use the version on the RapidCFD-dev repo instead of this earlier version.
+
 # Usage
 
 ```
